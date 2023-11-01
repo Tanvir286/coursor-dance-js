@@ -1,0 +1,15 @@
+body{
+    background: url(./images/01.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.man{
+    position: absolute;
+    transform: translate(50%,50%);
+}
+
+.man2{
+    position: absolute;
+    transform: translate(50%,50%);
+}
